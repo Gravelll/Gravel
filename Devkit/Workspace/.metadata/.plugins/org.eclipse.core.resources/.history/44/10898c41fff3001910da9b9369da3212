@@ -1,0 +1,11 @@
+package gravel.GDDM;
+
+import net.minecraftforge.fml.common.Mod;
+
+@Mod(gravelsdynamicdynamosandmore)
+public class GravelsDynamicDynamosandMore {
+
+	public GravelsDynamicDynamosandMore() {
+		// TODO Auto-generated constructor stub
+	}
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="net.minecraftforge.common.MinecraftForge"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext"/>
+<fullyQualifiedTypeName name="gravel.GDDM.GravelsDynamicDynamosandMore"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.LogManager"/>
+<fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
+</qualifiedTypeNameHistroy>
