@@ -1,0 +1,15 @@
+	{
+	"item.GDDM.copper_ingot": "Copper Bar",
+	"item.GDDM.flintsteel_ingot": "Flintsteel",
+	"item.GDDM.bronze_bar": "Bronze Bar",
+	"item.GDDM.damascus_ingot": "Damascus Steel Bar",
+	"item.GDDM.flintsteel_plate": "Flintsteel Plate",
+	"item.GDDM.gravel_plate": "Gravel Plate",
+	
+	"block.GDDM.bronze_block": "Block of Bronze",
+	"block.GDDM.copper_block": "Block of Copper",
+	"block.GDDM.flintsteel_block": "Block of Flintsteel",
+	"block.GDDM.damascus_block": "Block of Damascus Steel",
+	
+	"itemGroup.GDDM": "Gravel's Dynamic Dynamos and More"
+	}

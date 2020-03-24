@@ -6,5 +6,14 @@
 <fullyQualifiedTypeName name="net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext"/>
 <fullyQualifiedTypeName name="gravel.GDDM.GravelsDynamicDynamosandMore"/>
 <fullyQualifiedTypeName name="org.apache.logging.log4j.LogManager"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.RegistryEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.RegistryEvent.Register"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="net.minecraftforge.eventbus.api.SubscribeEvent"/>
 <fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="net.minecraft.data.DirectoryCache"/>
+<fullyQualifiedTypeName name="gravel.GDDM.lists.BlockList"/>
+<fullyQualifiedTypeName name="gravel.GDDM.lists.ItemList"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Items"/>
 </qualifiedTypeNameHistroy>

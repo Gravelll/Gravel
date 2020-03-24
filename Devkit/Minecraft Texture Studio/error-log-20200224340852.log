@@ -1,0 +1,13 @@
+Exception message: Could not read C:\Users\ESmith\AppData\Roaming\.minecraft\versions\1.14.4\gravelpack\assets\minecraft\textures\block\acacia_log.png as a zip file
+Inner exception: Cannot read that as a ZipFile
+Inner exception stack trace
+   at Ionic.Zip.ZipFile.ReadIntoInstance(ZipFile zf)
+   at Ionic.Zip.ZipFile._InitInstance(String zipFileName, TextWriter statusMessageWriter)
+   at Ionic.Zip.ZipFile..ctor(String fileName)
+Stack Trace
+   at Ionic.Zip.ZipFile..ctor(String fileName)
+   at MinecraftTextureStudio.FrmResourcePackExtract.extractZip()
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ThreadHelper.ThreadStart()

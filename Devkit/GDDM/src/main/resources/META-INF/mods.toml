@@ -1,0 +1,41 @@
+modLoader="javafml"
+
+loaderVersion="[31.1.18,)"
+
+# A list of mods - how many allowed here is determined by the individual mod loader
+[[mods]] #mandatory
+
+modId="gravelsdynamicdynamosandmore"
+
+version="0.1.0"
+
+displayName="Gravel's Dynamic Dynamos and More"
+
+logoFile="GDDMLOGO.png"
+credits="Thanks to Daniel Richardi for being a great teacher, and the Forge API dev(s) for their awesome(ly written) code"
+
+authors="Gravel__"
+
+description='''
+	Gravel's Dynamic Dynamos and More is a mod made with 3 things in mind: Simplicity, Unity and Versatility. I've always disliked the weird, complex and user un-friendly power sources of some tech mods.
+I mean, you have to understand the science behind the mod to know how to play it and I don't believe in that. I also recognize that there are alot of tech mods, and alot of different systems. The mod is
+planned to work with RF,FE,MJ,EU and Gregtech, as well as modded material compatibility. But the one thing that always bugged me about power sources is this: no options. You can only use coal, oil, lava,
+steam (which is basically coal), and the occasional hand crank, wind turbine or water wheel. GDDM includes everything from methane generators to kinetic generators fueled by trampolines. You can even have
+tiny goblins perform nuclear fission on different soils. Some generators even make you resources as optional byproducts.
+The mod provides a planned 20+ new blocks, most of them power generation, and new materials to make these blocks.
+'''
+
+#mod dependencies
+[[dependencies.gddm]]
+modId="forge" 
+mandatory=true 
+versionRange="[31.1.18,)" 
+ordering="NONE"
+side="BOTH"
+    
+[[dependencies.gddm]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.15.2]"
+ordering="NONE"
+side="BOTH"
